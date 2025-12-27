@@ -47,7 +47,7 @@ while True:
         print("TEXT UPDATED SUCCESSFULLY.")
     
     elif choice == "7":
-        print("EXITING THE PROGRAM. GOODBYE!")
+        print("EXITING THE PROGRAM.BYE BYE!")
         break
 
     else:
